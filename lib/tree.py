@@ -3,4 +3,5 @@ class Tree:
     self.root = root
 
   def get_element_by_id(self, id):
-    pass
+    result = []
+    
